@@ -14,6 +14,7 @@ Mis expectativas para este proyecto son:
 - Aprender Backend
 - Adquirir mas conocimientos 
 - Hacer paginas web que queden preciosas :3 
+- Combinar mis conocimientos de biología con la programación para construir aplicaciones que apoyen al conocimiento científico
 😄 🥳
 
 🚀
