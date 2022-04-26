@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de David</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://dafra117.github.io/my_launchx_blog_DAFRA/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dafra117.github.io/my_launchx_blog_DAFRA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi travesía</title>
+      <link>https://dafra117.github.io/my_launchx_blog_DAFRA/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dafra117.github.io/my_launchx_blog_DAFRA/posts/post_1/</guid>
+      <description>Un amigo fue quien me compartió la convocatoria, soy biólogo mi primer acercamiento a la programación de una manera más seria fue haciendo una aplicación de identificación de líquenes; sin embargo, en esa app fui apoyado con alguien que conocía más del tema, pero realmente me llamo mucho la atención todo lo que se podía llegar a hacer.
+Al inicio del viaje comencé con 0 conocimiento sin embargo con ayuda de los mission comander, he logrado aprender bastante, debido a las actividades diarias no he podido ser tan constante como me gustaría, pero realmente he aprendido muchísimo y quiero seguir haciéndolo, desde lo más básico como la estructura de una página, hasta hacer que esta realice acciones y que se vea muy bien para los usuarios.</description>
+    </item>
+    
     <item>
       <title>La cultura de un Desarrollador de software</title>
       <link>https://dafra117.github.io/my_launchx_blog_DAFRA/posts/intro/</link>
